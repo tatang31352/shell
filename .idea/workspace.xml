@@ -149,6 +149,9 @@
     </findStrings>
   </component>
   <component name="GOROOT" path="G:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -166,13 +169,14 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="184" />
     <option name="y" value="54" />
     <option name="width" value="1400" />
     <option name="height" value="1028" />
   </component>
   <component name="ProjectId" id="1Q31ysjiC8DHdmCd7tCSCsaEWdT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -184,38 +188,6 @@
             <path>
               <item name="shell" type="b2602c69:ProjectViewProjectNode" />
               <item name="shell" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shell" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shell" type="462c0819:PsiDirectoryNode" />
-              <item name="crontab" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shell" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shell" type="462c0819:PsiDirectoryNode" />
-              <item name="crontab" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shell" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shell" type="462c0819:PsiDirectoryNode" />
-              <item name="crontab" type="462c0819:PsiDirectoryNode" />
-              <item name="master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shell" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shell" type="462c0819:PsiDirectoryNode" />
-              <item name="crontab" type="462c0819:PsiDirectoryNode" />
-              <item name="master" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shell" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shell" type="462c0819:PsiDirectoryNode" />
-              <item name="crontab" type="462c0819:PsiDirectoryNode" />
-              <item name="master" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webroot" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -334,7 +306,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.19296375" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.17750533" />
@@ -351,8 +322,8 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49626866" visible="true" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="13" sideWeight="0.50373137" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.49626866" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50373137" side_tool="true" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="调试" order="14" sideWeight="0.4989339" weight="0.32936078" />
       <window_info anchor="bottom" id="Run Dashboard" order="15" type="SLIDING" weight="0.32936078" />
       <window_info anchor="bottom" auto_hide="true" x="23" y="372" width="1876" height="296" id="运行仪表板" order="16" type="SLIDING" weight="0.32827735" />
