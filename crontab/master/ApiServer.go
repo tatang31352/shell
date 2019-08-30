@@ -217,7 +217,6 @@ func InitApiServer() (err error) {
 	staticDir = http.Dir(G_config.WebRoot)
 	staticHandler = http.FileServer(staticDir)
 	mux.Handle("/", http.StripPrefix("/", staticHandler))	//   ./webroot/index.html
-
 	//启动TCP监听
 	if listener, err = net.Listen("tcp", ":"+strconv.Itoa(G_config.ApiPort)); err != nil {
 		return
